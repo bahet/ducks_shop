@@ -1,1 +1,1 @@
-# UI tests for Ducks Store
+## UI tests for Ducks Store
