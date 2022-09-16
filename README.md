@@ -1,1 +1,1 @@
-# ducks_shop
+# UI tests for Ducks Store
